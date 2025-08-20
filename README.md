@@ -136,7 +136,7 @@ I’m a final-year CSE student passionate about building data-driven solutions a
 
 ## 📝 How to Use This README
 
-1. Create a repo named **`your-username/your-username`** (exactly your username).
+1. Create a repo named **`MOHAMED01ASFAK/MOHAMED01ASFAK`** (exactly your username).
 2. Add a file named **`README.md`** and paste this content.
 3. Replace **all placeholders** (links, usernames, repo names).
 4. Commit and push. Your profile page will now show this README.
